@@ -9,7 +9,7 @@ This is a Next.js App Router application. Netlify should use the repository root
 3. Add these environment variables in Netlify Site configuration:
 
 ```text
-NEXT_PUBLIC_SUPABASE_URL=https://eknplqovxnfupyfonzsd.supabase.co
+NEXT_PUBLIC_SUPABASE_URL=https://your-project-ref.supabase.co
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
 NEXT_PUBLIC_API_URL=https://your-deployed-backend.example.com/api
 ```
